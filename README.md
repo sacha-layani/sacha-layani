@@ -10,7 +10,7 @@
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sacha-layani"/></a>
 <a href="https://github.com/sacha-layani?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sacha-layani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+  <a href="https://github.com/sacha-layani/Simple-View-Counter">
 </div>
 
   
@@ -25,7 +25,7 @@
 </p>
     </td>
     <td>
-<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-layani&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+<img alt="sacha-layani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-layani&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     </td>
   </tr>
   </table>
