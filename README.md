@@ -21,7 +21,7 @@
 <td style="border:none;">
 <!-- GitHub Readme Streak Stats - https://github.com/sacha-layani/github-readme-streak-stats -->
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sacha LAYANI streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sacha-layani&theme=monokai-metallian&hide_border=true"/>
+    <img alt="Sacha LAYANI streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sacha-layani&theme=monokai-metallian&hide_border=true"/>
 </p>
     </td>
     <td>
