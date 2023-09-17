@@ -4,7 +4,7 @@
   I'm Sacha LAYANI
 </h2>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?size=21&color=22769B&width=408&height=59&lines=Status+%3A+Epita+student+-+1st+year"/>
+<img src="https://readme-typing-svg.herokuapp.com/?size=21&color=22769B&width=408&height=59&lines=Status+%3A+Epita+student+-+2nd+year"/>
 <br/>
 <a href="https://github.com/sacha-layani?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sacha-layani"/></a>
